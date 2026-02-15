@@ -16,9 +16,10 @@ The analysis includes beta estimation, hedge ratio calculation, futures-based he
 - Return and volatility analysis
 - Regression-based beta estimation
 - Static and rolling hedge ratios
-- Black-Scholes framework for option pricing
-- Greeks calculation (Delta)
 - Dynamic portfolio rebalancing
+- Black-Scholes framework for option pricing
+- Delta neutral portfolio analysis
+
 
 ## Tools & Libraries
 - Python
