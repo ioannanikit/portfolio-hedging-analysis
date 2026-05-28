@@ -23,6 +23,7 @@ The analysis includes beta estimation, hedge ratio calculation, futures-based he
 
 ## Tools & Libraries
 - Python
+- Numpy
 - Pandas
 - Matplotlib
 - Statsmodel
