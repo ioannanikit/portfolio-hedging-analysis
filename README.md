@@ -26,6 +26,7 @@ The analysis includes beta estimation, hedge ratio calculation, futures-based he
 - NumPy
 - Pandas
 - Matplotlib
+- Statsmodel
 
 ## Key Findings
 The implementation of systematic hedging strategies significantly reduced portfolio volatility.
